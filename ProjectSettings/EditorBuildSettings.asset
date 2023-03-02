@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Many Doors.unity
     guid: 0f4b3b357217d4b749a224fccc0b0686
+  - enabled: 1
+    path: Assets/Scenes/Gravity Invert.unity
+    guid: 65ccffbec5794403cb07ef5575407928
   m_configObjects: {}
